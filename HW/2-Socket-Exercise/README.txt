@@ -4,8 +4,8 @@ Assignment: helloStreamServer.py helloStreamClient.py  helloDgramServer.py hello
 Purpose: To create a datagram socket server and client to send and receive a  message. To create a client for a given stream server that sends and receives a message.
 
 To compile/run: stream server and client
-      Open a host: make p1 (compile datagram server) or python helloStreamServer.py
-      Open another host: make p2 (compile datagram client) or python helloStreamClient.py
+      Open a host: make p1 (compile stream server) or python helloStreamServer.py
+      Open another host: make p2 (compile stream client) or python helloStreamClient.py
 
 
 To compile/run: datagram server and client
